@@ -1,0 +1,28 @@
+name: Ninja-Coffee-Bar
+favicon: null
+layout_spectrum: 0.9594834905583411
+typography_spectrum: 0.5649985587224364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2783116560894996
+  lightness: 0.6257883587386459
+  saturation: 0.9226089294534177
+  rhythmicContrast: 0.9799032164737582
+purpose: []
